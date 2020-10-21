@@ -2,7 +2,7 @@
 
 
 - 🔭 间歇性废物，间歇性自律
-- 🌱 Python深入学习
+- 🌱 只会Python的小弱鸡
 - 📔 《Effective Python》
 - 🤔 下雨天听音乐是一种享受
 
